@@ -86,4 +86,4 @@ Setting 页面 ==> Reveal Config Vars
 5. 选中 `auto switch` 情景模式:
 ![9](./imgs/9.png)
 
-6. 现在你就可以科学上网了
+6. 现在你就可以了.
