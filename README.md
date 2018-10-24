@@ -42,7 +42,7 @@
 ![6](./imgs/6.png)
 Setting 页面 ==> Reveal Config Vars
 
-需要配置 METHOD(加密方法)，PASSWORD(密码，推荐使用`aes-256-cfb`)，SERVER_ADDRESS(`0.0.0.0`) 三个环境变量，支持以下加密方法:
+需要配置 METHOD(加密方法,推荐使用`aes-256-cfb)，PASSWORD(密码)，SERVER_ADDRESS(`0.0.0.0`) 三个环境变量，支持以下加密方法:
 
 * rc4
 * rc4-md5
