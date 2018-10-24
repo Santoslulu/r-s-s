@@ -10,6 +10,7 @@
 
 ### 2.Fork [本项目](https://github.com/VincentChanX/shadowsocks-over-websocket) 到个人账号下
 ![1](./imgs/1.jpg)
+
 进入 <https://github.com/VincentChanX/shadowsocks-over-websocket> 页面  ==>  Fork
 ---
 
