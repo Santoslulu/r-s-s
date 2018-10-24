@@ -11,11 +11,9 @@
 ### 2.Fork [本项目](https://github.com/VincentChanX/shadowsocks-over-websocket) 到个人账号下
 ![1](./imgs/1.jpg)
 进入 <https://github.com/VincentChanX/shadowsocks-over-websocket> 页面  ==>  Fork
-https://github.com/VincentChanX/shadowsocks-over-websocket ===>Fork
-
 ---
 
-### 3.创建 [Heroku](https://dashboard.heroku.com/new?org=personal-apps) 应用
+### 3.创建 [Heroku]应用
 ![2](./imgs/2.png)
 登陆 Heroku 帐号，进入 [Dashboard](https://dashboard.heroku.com/apps) 页面  ==> Create New App ==> 输入 App Name  ==>  Create App
 
